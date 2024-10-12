@@ -4,11 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Luis+Fajardo;" />
 </h1>
 
-<div align="center">
-  - 🔭 I’m currently working on **a Gym Web App** <br /><br />
-  - 🌱 I’m currently learning Python 🐍
-</div>
-
 <h2 align="center">📚 Languages-Frameworks-Tools 📚</h2>
 
 <div align="center">
