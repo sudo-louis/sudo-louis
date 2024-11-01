@@ -8,7 +8,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,html,css,vscode,arduino" />
-    <img src="https://skillicons.dev/icons?i=javascript,linux,kali,bash,java,php,mysql,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,linux,kali,bash,java,php,mysql,kotlin,python" /><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
