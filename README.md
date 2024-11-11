@@ -17,8 +17,8 @@ I am a Software engineering student. I love creating cool stuff and helping peop
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,html,css,vscode,arduino" />
-    <img src="https://skillicons.dev/icons?i=javascript,linux,kali,bash,java,php,mysql,kotlin,python" /><br>
+    <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,html,css,arduino" />
+    <img src="https://skillicons.dev/icons?i=javascript,linux,bash,java,php,mysql,kotlin,python" /><br>
 </div>
 <br>
 
